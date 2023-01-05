@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmsimple/rubiks_cube/issues"
   },
-  "homepage": "https://github.com/mmsimple/rubiks_cube#readme"
+  "homepage": "https://github.com/mmsimple/rubiks_cube#readme",
+  "dependencies": {
+    "three": "^0.145.0"
+  }
 }
